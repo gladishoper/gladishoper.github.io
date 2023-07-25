@@ -11,9 +11,7 @@ project-date: July 2023
 client: Start Bootstrap
 category: Web Development
 description: This is the description of the post.
-
----
-
+bodycontent:
 # This is the title of the page on the post
 
 Here will come some text.
@@ -22,3 +20,5 @@ Here will come some text.
 - another list item.
 
 We are done for the moment.
+---
+
