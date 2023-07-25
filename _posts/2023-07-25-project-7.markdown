@@ -1,0 +1,24 @@
+---
+title: Getting started
+subtitle: Website Design shaping up and well...
+layout: default
+modal-id: 1
+date: 2014-07-25
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: July 2023
+client: Start Bootstrap
+category: Web Development
+description: This is the description of the post.
+
+---
+
+# This is the title of the page on the post
+
+Here will come some text.
+
+- a list item
+- another list item.
+
+We are done for the moment.
